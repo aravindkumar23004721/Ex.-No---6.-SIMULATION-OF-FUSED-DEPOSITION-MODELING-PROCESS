@@ -21,8 +21,13 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
+![Screenshot 2023-11-22 091536](https://github.com/aravindkumar23004721/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/148962674/5378da44-deec-48e5-9a04-fca187f3d62b)
+![Screenshot 2023-11-22 091556](https://github.com/aravindkumar23004721/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/148962674/8fe1b9e2-e72d-4e0d-8f48-eae9effc61ea)
+![Screenshot 2023-11-22 091616](https://github.com/aravindkumar23004721/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/148962674/e2080029-dbdf-43b6-aa48-1ec63d9f113b)
 
-### Name:
+
+
+### Name:Aravund kumar sasikumar samundi
 ### Register Number:
 
 ## Result:
